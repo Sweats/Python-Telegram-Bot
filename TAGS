@@ -1,0 +1,28 @@
+
+utils.py,41
+def hyperlink(link, text):hyperlink2,1
+
+bot.py,382
+PROGRAMMERS_UNITE_CHAT_ID = -1001082853520PROGRAMMERS_UNITE_CHAT_ID10,183
+BOT_SETTINGS = {}BOT_SETTINGS11,226
+def command_test(bot, update):command_test16,309
+def command_search(bot, update, args):command_search27,574
+def command_help(bot, update):command_help52,1213
+def command_announcments(bot, update):command_announcments64,1569
+def startbot(ini):startbot85,2074
+
+forum.py,307
+ANNOUCNMENTS_URL  = 'https://forum.symnet.moe/api/v1/announcements'ANNOUCNMENTS_URL8,171
+FORUM_PREFIX =  'https://forum.symnet.moe/'FORUM_PREFIX9,239
+SEARCH_URL = 'https://forum.symnet.moe/api/v1/search'SEARCH_URL10,283
+def search(title):search12,338
+def getAnnouncements():getAnnouncements28,737
+
+main.py,49
+def main():main8,100
+def parse():parse21,437
+
+settings.py,110
+def genfiles(ini):genfiles5,32
+def getBotSettings(ini):getBotSettings26,632
+def clean(ini):clean40,1099
